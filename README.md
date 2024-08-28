@@ -10,7 +10,7 @@ I'm Abhay Kumar, Principal Research Scientist at Yellow.ai and a passionate Rese
 
 ### 💡 Projects
 
-- [**Komodo LLM**](https://arxiv.org/abs/2403.09362): A language-specific LLM for Indonesian
+- [**Komodo LLM**](https://arxiv.org/abs/2403.09362): A foundational large language model tailored for a specific language.
 - [**GPT2-TF**](https://github.com/akanyaani/gpt-2-tensorflow2.0): Implementation of GPT-2 in TensorFlow 2, recognized as the first repository for GPT-2 in TensorFlow 2.
 - [**miniLLama**](https://github.com/akanyaani/miniLLAMA): A straightforward and compact implementation of the LLAMA Model, inspired by Andrej Karpathy's minGPT.
 
