@@ -12,12 +12,6 @@ I'm Abhay Kumar, Principal Data Scientist at Yellow.ai and a passionate Research
 - **8+ years** of experience in Data Science and NLP, with a focus on Language Modeling
 - **340+ stars** on GitHub for my open-source contributions
 
-### 🛠️ My Expertise
-
-- **Deep Learning**: Designing and training neural networks, with a focus on LLMs
-- **NLP**: Building and fine-tuning language models to solve real-world problems
-- **Machine Learning**: End-to-end model development, from data preprocessing to deployment
-- **AI Research**: Exploring novel algorithms and architectures to advance the field
 
 ### 💡 Projects
 
