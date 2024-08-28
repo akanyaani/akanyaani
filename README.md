@@ -18,9 +18,3 @@ I'm Abhay Kumar, Principal Data Scientist at Yellow.ai and a passionate Research
 - [**miniLLama**](https://github.com/akanyaani/miniLLAMA): A project focused on the training and fine-tuning of smaller LLMs
 
 
-### 📫 How to Reach Me
-
-- **LinkedIn**: [Abahy Kumar](https://www.linkedin.com/in/akanyaani/)
-- **Twitter**: [@AbahyKumar](https://x.com/akanyaani)
-- **Email**: akanyaani@gmail.com
-
