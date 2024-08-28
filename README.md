@@ -9,6 +9,7 @@ I'm Abahy Kumar, a Principal Data Scientist at Yellow.ai and a passionate Resear
 - **Principal Data Scientist** at **Yellow.ai**
 - **Co-Author** of **Komodo LLM**: An open-source, language-specific LLM for Indonesian
 - **8+ years** of experience in Data Science and NLP, with a focus on Language Modeling
+- **340+ stars** on GitHub for my open-source contributions
 - Enthusiast in **training neural networks**, from small to large
 - Open-source contributor with a keen interest in **AI research**
 
