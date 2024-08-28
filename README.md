@@ -2,11 +2,11 @@
 
 ### 👋 Welcome to My GitHub Profile!
 
-I'm Abahy Kumar, a Principal Data Scientist at Yellow.ai and a passionate Research Scientist with a deep love for training neural networks, particularly large language models (LLMs). My journey in AI has been driven by a curiosity to push the boundaries of what's possible with machine learning and NLP.
+I'm Abahy Kumar, a Principal Data Scientist at Yellow.ai and a passionate Research Scientist with a deep love for training neural networks, particularly large language models (LLMs). A curiosity has driven my journey in AI to push the boundaries of what's possible with machine learning and NLP.
 
 ### 🌟 Highlights
 
-- **Principal Data Scientist** at **MiFi**
+- **Principal Data Scientist** at **Yellow.ai**
 - **Co-Author** of **Komodo LLM**: An open-source, language-specific LLM for Indonesian
 - **8+ years** of experience in Data Science and NLP, with a focus on Language Modeling
 - Enthusiast in **training neural networks**, from small to large
@@ -22,7 +22,7 @@ I'm Abahy Kumar, a Principal Data Scientist at Yellow.ai and a passionate Resear
 ### 💡 Projects
 
 - [**Komodo LLM**](https://github.com/your-repo/komodo-llm): A language-specific LLM for Indonesian
-- [**miniLLama**](https://github.com/your-repo/minillama): A project focused on the training and fine-tuning of smaller LLMs
+- [**miniLLama**](https://github.com/akanyaani/miniLLAMA): A project focused on the training and fine-tuning of smaller LLMs
 
 ### 🌱 What I'm Learning
 
@@ -35,14 +35,12 @@ I'm always open to collaboration on interesting AI and machine learning projects
 
 ### 📫 How to Reach Me
 
-- **LinkedIn**: [Abahy Kumar](https://linkedin.com/in/your-profile)
-- **Twitter**: [@AbahyKumarAI](https://twitter.com/your-profile)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Abahy Kumar](https://www.linkedin.com/in/akanyaani/)
+- **Twitter**: [@AbahyKumarAI](https://x.com/akanyaani)
+- **Email**: akanyaani@gmail.com
 
 ### 🎨 Fun Fact
 
 I'm also a credit card enthusiast who enjoys finding the best rewards and optimizing my spending strategies. When I'm not diving into neural networks, you might find me exploring new financial hacks!
 
 ---
-
-Feel free to explore my repositories and reach out if you have any questions or ideas. Let's build the future of AI together!
