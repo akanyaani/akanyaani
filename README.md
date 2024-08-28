@@ -26,11 +26,6 @@ I'm Abahy Kumar, a Principal Data Scientist at Yellow.ai and a passionate Resear
 - [**miniLLama**](https://github.com/akanyaani/miniLLAMA): A project focused on the training and fine-tuning of smaller LLMs
 
 
-### 🌱 What I'm Learning
-
-- **Information Theory**: Deepening my understanding of the mathematical foundations of AI
-- **Advanced Model Compression Techniques**: Exploring methods like pruning and quantization
-
 ### 🚀 Let's Collaborate!
 
 I'm always open to collaboration on interesting AI and machine learning projects. If you share a passion for neural networks, LLMs, or innovative AI solutions, let's connect!
@@ -38,7 +33,7 @@ I'm always open to collaboration on interesting AI and machine learning projects
 ### 📫 How to Reach Me
 
 - **LinkedIn**: [Abahy Kumar](https://www.linkedin.com/in/akanyaani/)
-- **Twitter**: [@AbahyKumarAI](https://x.com/akanyaani)
+- **Twitter**: [@AbahyKumar](https://x.com/akanyaani)
 - **Email**: akanyaani@gmail.com
 
 ### 🎨 Fun Fact
