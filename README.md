@@ -21,8 +21,10 @@ I'm Abahy Kumar, a Principal Data Scientist at Yellow.ai and a passionate Resear
 
 ### 💡 Projects
 
-- [**Komodo LLM**](https://github.com/your-repo/komodo-llm): A language-specific LLM for Indonesian
+- [**Komodo LLM**](https://arxiv.org/abs/2403.09362): A language-specific LLM for Indonesian
+- [**GPT2-TF**](https://github.com/akanyaani/gpt-2-tensorflow2.0): A project focused on the training and fine-tuning of GPT Model
 - [**miniLLama**](https://github.com/akanyaani/miniLLAMA): A project focused on the training and fine-tuning of smaller LLMs
+
 
 ### 🌱 What I'm Learning
 
