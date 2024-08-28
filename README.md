@@ -8,9 +8,9 @@ I'm Abhay Kumar, Principal Data Scientist at Yellow.ai and a passionate Research
 ### 🌟 Highlights
 
 - **Principal Data Scientist** at **Yellow.ai**
-- **Co-Author** of **Komodo LLM**: An open-source, language-specific LLM for Indonesian
-- **8+ years** of experience in Data Science and NLP, with a focus on Language Modeling
-- **340+ stars** on GitHub for my open-source contributions
+- **Co-Author** of **Komodo LLM**: An open-source, language-specific LLM for Indonesian.
+- **8+ years** of experience in Data Science and NLP, with a focus on Language Modeling.
+- **340+ stars** on GitHub for my open-source contributions.
 
 
 ### 💡 Projects
