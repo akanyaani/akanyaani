@@ -1,6 +1,6 @@
 ### 👋 Welcome to My GitHub Profile!
 
-I'm Abhay Kumar, Principal Research Scientist at Yellow.ai and a passionate Research Scientist focused on training neural networks, especially language models and large language models (LLMs). With over 8 years in Data Science and NLP, I co-authored the open-source Komodo LLM.
+I'm Abhay Kumar, Principal Research Scientist at Yellow.ai, with a deep passion for training neural networks, particularly language models and large language models (LLMs). With over 8 years of experience in Data Science and NLP, I also co-authored the open-source Komodo LLM.
 
 ### 🌟 Highlights
 
