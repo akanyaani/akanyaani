@@ -10,7 +10,7 @@ I'm Abhay Kumar, Principal Research Scientist at Yellow.ai, with a deep passion 
 
 ### 💡 Projects
 
-- [**ZCclip**](https://arxiv.org/abs/2504.02507): A foundational large language model tailored for a specific language.
+- [**ZClip**](https://arxiv.org/abs/2504.02507): A foundational large language model tailored for a specific language.
 - [**Variance Control**](https://arxiv.org/abs/2503.17500): A foundational large language model tailored for a specific language.
 - [**Komodo LLM**](https://arxiv.org/abs/2403.09362): A foundational large language model tailored for a specific language.
 - [**GPT2-TF**](https://github.com/akanyaani/gpt-2-tensorflow2.0): Implementation of GPT-2 in TensorFlow 2, recognized as the first repository for GPT-2 in TensorFlow 2.
