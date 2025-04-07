@@ -8,7 +8,7 @@ I'm Abhay Kumar, Principal Research Scientist at Yellow.ai, with a deep passion 
 - **Co-Author** of **Komodo LLM**: An open-source, language-specific LLM for Indonesian.
 - **8+ years** of experience in Data Science and NLP, with a focus on Language Modeling.
 
-### 💡 Projects
+### 💡 Projects/Papers
 
 - [**ZClip**](https://arxiv.org/abs/2504.02507): An Adaptive Spike Mitigation for LLM Pre-Training.
 - [**Variance Control**](https://arxiv.org/abs/2503.17500): Variance Control via Weight Rescaling in LLM Pre-training.
