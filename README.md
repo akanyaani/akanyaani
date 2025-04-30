@@ -4,7 +4,7 @@ I'm Abhay Kumar, Senior LLM Research Engineer at BluOrion, with a deep passion f
 
 ### 🌟 Highlights
 
-- **Principal Research Scientist** at **Yellow.ai**
+- **Senior LLM Research Engineer** at **BluOrion**
 - **Co-Author** of **Komodo LLM**: An open-source, language-specific LLM for Indonesian.
 - **8+ years** of experience in Data Science and NLP, with a focus on Language Modeling.
 
